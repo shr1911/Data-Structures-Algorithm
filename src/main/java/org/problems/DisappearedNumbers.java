@@ -1,6 +1,7 @@
 package org.problems;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -9,20 +10,25 @@ import java.util.List;
 public class DisappearedNumbers {
     public static void main(String[] args) {
 
-        int[] input = {1, 3, 6, 8};
+        int[] input = {4,3,2,7,8,2,3,1};
         List<Integer> disappearedNumbersList = findDisappearedNumbers(input);
         System.out.println(disappearedNumbersList);
     }
 
     public static List<Integer> findDisappearedNumbers(int[] nums) {
-        List<Integer> disappearedNumbersList = new ArrayList<>();
-
-        int n = nums.length;
-
-        for (int i=1 ; i <=n ; i++) {
-
+        for (int i = 0; i < nums.length; i++) {
+            int newIndex = Math.abs(nums[i]) - 1;
+            if (nums[newIndex] > 0) {
+                nums[newIndex] *= -1;
+            }
         }
 
-        return disappearedNumbersList;
+        List<Integer> result = new LinkedList<Integer>();
+        for (int i = 1; i <= nums.length; i++) {
+            if (nums[i - 1] > 0) {
+                result.add(i);
+            }
+        }
+        return result;
     }
 }
