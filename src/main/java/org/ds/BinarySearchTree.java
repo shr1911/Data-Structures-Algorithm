@@ -95,7 +95,7 @@ public class BinarySearchTree {
         // For given node find in order
         // Normal way after doing inorder find - O(n) time
         // We want in O(height) since it's BST - O(long to the base 2)
-        // ******* SO FAR MOST difficult
+        // **** os far difficult
         System.out.println(tree.findInorderSuccessor(root, 10));
 
         //ToDo: find inorder predecessor - write the function for the same. Need to think
@@ -124,6 +124,7 @@ public class BinarySearchTree {
                     ancestor = ancestor.right;
                 }
             }
+            return successor;
         }
     }
 
@@ -151,11 +152,10 @@ public class BinarySearchTree {
             else {
                 BstNode temp = findMinNode(root.right);
                 root.data = temp.data;
-                root.right = delete(root.right, temp.data)
+                root.right = delete(root.right, temp.data);
             }
-
         }
-
+        return root;
     }
 
     private static boolean isBSTOptimized(BstNode root) {
@@ -313,7 +313,7 @@ public class BinarySearchTree {
     private BstNode findMinNode(BstNode root) {
         if (root == null) {
             System.out.println("Error: tree is empty");
-            return -1;
+            return null;
         }
         BstNode current = root;
         while(current.left != null) {

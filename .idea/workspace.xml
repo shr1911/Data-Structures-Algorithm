@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/BalancedParanthesesUsingStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/InfixPrefixPostFixEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/QueueUsingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/QueueUsingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/StackUsingLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/BestTimeToBuyStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/CountingBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/MergeTwoSortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/MiddleOfLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/RangeSumQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/RemoveDupSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/RemoveFromLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/common/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ds/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/problems/ClimbingStairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +50,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BalancedParanthesesUsingStack.executor": "Run",
+    "Application.BestTimeToBuyStocks.executor": "Run",
     "Application.BinarySearchTree (1).executor": "Run",
     "Application.BinarySearchTree.executor": "Run",
     "Application.ContainsDuplicate.executor": "Run",
+    "Application.CountingBits.executor": "Run",
     "Application.DisappearedNumbers.executor": "Run",
     "Application.DoublyLinkedList.executor": "Run",
     "Application.InfixPrefixPostFixEvaluation.executor": "Run",
     "Application.LinkedList.executor": "Run",
+    "Application.LinkedListCycle.executor": "Run",
     "Application.LinkedListImpl (1).executor": "Run",
     "Application.LinkedListImpl.executor": "Run",
+    "Application.MergeTwoSortedLinkedList.executor": "Run",
+    "Application.MiddleOfLinkedList.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.QueueUsingLinkedList.executor": "Run",
+    "Application.RangeSumQuery.executor": "Run",
+    "Application.RemoveDupSortedList.executor": "Run",
+    "Application.RemoveFromLinkedList.executor": "Run",
+    "Application.ReverseLinkedList.executor": "Run",
     "Application.ReverseLinkedListUsingStack.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.SingleNumber.executor": "Run",
@@ -69,13 +84,13 @@
     "onboarding.tips.debug.path": "C:/Users/Shraddha Makwana/IdeaProjects/Data-Structures-Algorithms/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BinarySearchTree">
-    <configuration name="BalancedParanthesesUsingStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ds.BalancedParanthesesUsingStack" />
+  <component name="RunManager" selected="Application.MergeTwoSortedLinkedList">
+    <configuration name="MergeTwoSortedLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.MergeTwoSortedLinkedList" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ds.*" />
+          <option name="PATTERN" value="org.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchTree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ds.BinarySearchTree" />
+    <configuration name="MiddleOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.MiddleOfLinkedList" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ds.*" />
+          <option name="PATTERN" value="org.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ds.BinarySearchTree" />
+    <configuration name="RemoveDupSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.RemoveDupSortedList" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ds.*" />
+          <option name="PATTERN" value="org.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InfixPrefixPostFixEvaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ds.InfixPrefixPostFixEvaluation" />
+    <configuration name="RemoveFromLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.RemoveFromLinkedList" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ds.*" />
+          <option name="PATTERN" value="org.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueUsingLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ds.QueueUsingLinkedList" />
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.ReverseLinkedList" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ds.*" />
+          <option name="PATTERN" value="org.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearchTree" />
-        <item itemvalue="Application.BinarySearchTree (1)" />
-        <item itemvalue="Application.QueueUsingLinkedList" />
-        <item itemvalue="Application.InfixPrefixPostFixEvaluation" />
-        <item itemvalue="Application.BalancedParanthesesUsingStack" />
+        <item itemvalue="Application.MergeTwoSortedLinkedList" />
+        <item itemvalue="Application.RemoveDupSortedList" />
+        <item itemvalue="Application.RemoveFromLinkedList" />
+        <item itemvalue="Application.ReverseLinkedList" />
+        <item itemvalue="Application.MiddleOfLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -199,14 +214,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/ds/BinarySearchTree.java</url>
           <line>29</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/ds/BinarySearchTree.java</url>
-          <line>337</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/ds/BinarySearchTree.java</url>
