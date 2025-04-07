@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/AverageLevelsBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/DiameterBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/InvertBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/MaximumDepthBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/MeetingRooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/MergeTwoBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/MinimumDepthBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/NextGreateastLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/SubTreeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/TreePathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/BackspaceStringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/IndexPairsOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/MajorityElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AverageLevelsBinaryTree.executor": "Run",
+    "Application.BackspaceStringCompare.executor": "Run",
     "Application.BalancedParanthesesUsingStack.executor": "Run",
     "Application.BestTimeToBuyStocks.executor": "Run",
     "Application.BinarySearch.executor": "Debug",
@@ -59,11 +52,13 @@
     "Application.DiameterBinaryTree.executor": "Run",
     "Application.DisappearedNumbers.executor": "Run",
     "Application.DoublyLinkedList.executor": "Run",
+    "Application.IndexPairsOfString.executor": "Run",
     "Application.InfixPrefixPostFixEvaluation.executor": "Run",
     "Application.LinkedList.executor": "Run",
     "Application.LinkedListCycle.executor": "Run",
     "Application.LinkedListImpl (1).executor": "Run",
     "Application.LinkedListImpl.executor": "Run",
+    "Application.MajorityElements.executor": "Run",
     "Application.MaximumDepthBinaryTree.executor": "Run",
     "Application.MeetingRooms.executor": "Run",
     "Application.MergeTwoSortedLinkedList.executor": "Run",
@@ -80,9 +75,11 @@
     "Application.ReverseString.executor": "Run",
     "Application.SameTree.executor": "Run",
     "Application.SingleNumber.executor": "Run",
+    "Application.SquaresOfSortedArray.executor": "Run",
     "Application.StackUsingArray.executor": "Run",
     "Application.StackUsingLinkedList.executor": "Run",
     "Application.TreePathSum.executor": "Run",
+    "Application.TwoSum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -92,9 +89,9 @@
     "onboarding.tips.debug.path": "C:/Users/Shraddha Makwana/IdeaProjects/Data-Structures-Algorithms/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DiameterBinaryTree">
-    <configuration name="DiameterBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.DiameterBinaryTree" />
+  <component name="RunManager" selected="Application.MajorityElements">
+    <configuration name="BackspaceStringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.BackspaceStringCompare" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumDepthBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.MaximumDepthBinaryTree" />
+    <configuration name="IndexPairsOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.IndexPairsOfString" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumDepthBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.MinimumDepthBinaryTree" />
+    <configuration name="MajorityElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.MajorityElements" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SameTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.SameTree" />
+    <configuration name="SquaresOfSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.SquaresOfSortedArray" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreePathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.TreePathSum" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.TwoSum" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -160,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DiameterBinaryTree" />
-        <item itemvalue="Application.MaximumDepthBinaryTree" />
-        <item itemvalue="Application.TreePathSum" />
-        <item itemvalue="Application.SameTree" />
-        <item itemvalue="Application.MinimumDepthBinaryTree" />
+        <item itemvalue="Application.MajorityElements" />
+        <item itemvalue="Application.IndexPairsOfString" />
+        <item itemvalue="Application.BackspaceStringCompare" />
+        <item itemvalue="Application.SquaresOfSortedArray" />
+        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
