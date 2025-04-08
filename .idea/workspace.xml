@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/Convert1DArrayTo2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +42,7 @@
     "Application.BinarySearchTree (1).executor": "Run",
     "Application.BinarySearchTree.executor": "Run",
     "Application.ContainsDuplicate.executor": "Run",
+    "Application.Convert1DArrayTo2D.executor": "Run",
     "Application.CountingBits.executor": "Run",
     "Application.DiameterBinaryTree.executor": "Run",
     "Application.DisappearedNumbers.executor": "Run",
