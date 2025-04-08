@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/BackspaceStringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/IndexPairsOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/MajorityElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/Convert1DArrayTo2D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,9 +86,22 @@
     "onboarding.tips.debug.path": "C:/Users/Shraddha Makwana/IdeaProjects/Data-Structures-Algorithms/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MajorityElements">
+  <component name="RunManager" selected="Application.Convert1DArrayTo2D">
     <configuration name="BackspaceStringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.problems.BackspaceStringCompare" />
+      <module name="Data-Structures-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Convert1DArrayTo2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.Convert1DArrayTo2D" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -142,26 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.TwoSum" />
-      <module name="Data-Structures-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Convert1DArrayTo2D" />
         <item itemvalue="Application.MajorityElements" />
         <item itemvalue="Application.IndexPairsOfString" />
         <item itemvalue="Application.BackspaceStringCompare" />
         <item itemvalue="Application.SquaresOfSortedArray" />
-        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
