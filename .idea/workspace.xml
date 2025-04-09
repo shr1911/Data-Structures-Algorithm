@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/sort/BubbleSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/sort/InsertionSort.java" afterDir="false" />
@@ -17,6 +18,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/problems/MoveZeros.java" afterDir="false" />
     </list>
+=======
+<<<<<<< HEAD
+    <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+=======
+    <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="" />
+>>>>>>> bdd47f7a44eb2e82861ba54549a3f0ab304be17d
+>>>>>>> 2c58583c91ff524d69abc7879d957e418b02c78e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +42,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+>>>>>>> bdd47f7a44eb2e82861ba54549a3f0ab304be17d
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
