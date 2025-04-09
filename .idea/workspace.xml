@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="" />
+    <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/sort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/sort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/FindAllDuplicatesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/FindTheDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/MaximumAverageSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/problems/isSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/problems/MoveZeros.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,26 +53,34 @@
     "Application.BinarySearch.executor": "Debug",
     "Application.BinarySearchTree (1).executor": "Run",
     "Application.BinarySearchTree.executor": "Run",
+    "Application.BinaryTreePaths.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
     "Application.ContainsDuplicate.executor": "Run",
     "Application.Convert1DArrayTo2D.executor": "Run",
     "Application.CountingBits.executor": "Run",
     "Application.DiameterBinaryTree.executor": "Run",
     "Application.DisappearedNumbers.executor": "Run",
     "Application.DoublyLinkedList.executor": "Run",
+    "Application.FindAllDuplicatesInArray.executor": "Run",
+    "Application.FindTheDuplicate.executor": "Run",
     "Application.IndexPairsOfString.executor": "Run",
     "Application.InfixPrefixPostFixEvaluation.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.LinkedList.executor": "Run",
     "Application.LinkedListCycle.executor": "Run",
     "Application.LinkedListImpl (1).executor": "Run",
     "Application.LinkedListImpl.executor": "Run",
     "Application.MajorityElements.executor": "Run",
+    "Application.MaximumAverageSubArray.executor": "Run",
     "Application.MaximumDepthBinaryTree.executor": "Run",
     "Application.MeetingRooms.executor": "Run",
     "Application.MergeTwoSortedLinkedList.executor": "Run",
     "Application.MiddleOfLinkedList.executor": "Run",
     "Application.MinimumDepthBinaryTree.executor": "Run",
     "Application.MissingNumber.executor": "Run",
+    "Application.MoveZeros.executor": "Run",
     "Application.NextGreateastLetter.executor": "Run",
+    "Application.ProductOfArrayExceptSelf.executor": "Run",
     "Application.QueueUsingLinkedList.executor": "Run",
     "Application.RangeSumQuery.executor": "Run",
     "Application.RemoveDupSortedList.executor": "Run",
@@ -69,14 +89,17 @@
     "Application.ReverseLinkedListUsingStack.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.SameTree.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
     "Application.SingleNumber.executor": "Run",
     "Application.SquaresOfSortedArray.executor": "Run",
     "Application.StackUsingArray.executor": "Run",
     "Application.StackUsingLinkedList.executor": "Run",
     "Application.TreePathSum.executor": "Run",
     "Application.TwoSum.executor": "Run",
+    "Application.isSubsequence.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -84,9 +107,9 @@
     "onboarding.tips.debug.path": "C:/Users/Shraddha Makwana/IdeaProjects/Data-Structures-Algorithms/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Convert1DArrayTo2D">
-    <configuration name="BackspaceStringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.BackspaceStringCompare" />
+  <component name="RunManager" selected="Application.FindAllDuplicatesInArray">
+    <configuration name="FindAllDuplicatesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.FindAllDuplicatesInArray" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Convert1DArrayTo2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.Convert1DArrayTo2D" />
+    <configuration name="FindTheDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.FindTheDuplicate" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +134,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexPairsOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.IndexPairsOfString" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ds.sort.InsertionSort" />
+      <module name="Data-Structures-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ds.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductOfArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.problems.ProductOfArrayExceptSelf" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -124,25 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.MajorityElements" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ds.sort.SelectionSort" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquaresOfSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.SquaresOfSortedArray" />
-      <module name="Data-Structures-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.problems.*" />
+          <option name="PATTERN" value="org.ds.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Convert1DArrayTo2D" />
-        <item itemvalue="Application.MajorityElements" />
-        <item itemvalue="Application.IndexPairsOfString" />
-        <item itemvalue="Application.BackspaceStringCompare" />
-        <item itemvalue="Application.SquaresOfSortedArray" />
+        <item itemvalue="Application.FindAllDuplicatesInArray" />
+        <item itemvalue="Application.FindTheDuplicate" />
+        <item itemvalue="Application.ProductOfArrayExceptSelf" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +247,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/problems/AverageLevelsBinaryTree.java</url>
           <line>89</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/problems/isSubsequence.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
