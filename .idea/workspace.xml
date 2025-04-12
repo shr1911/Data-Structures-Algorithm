@@ -5,8 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ds/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/ds/binarysearch/FindOccurenceBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/CountTimesSortedRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/LetterCasePermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/MaximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/MergePointOfTwoLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/Print2DArraySpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/SearchElementInCircularSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/SetMatrixZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/SubsetsPowerSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/SubsetsPowerSet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/WordSearchMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/WordSearchMatrixTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/BalancedParanthesesUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/BalancedParanthesesUsingStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/InfixPrefixPostFixEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/InfixPrefixPostFixEvaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/QueueUsingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/QueueUsingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/QueueUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/QueueUsingLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/ReverseLinkedListUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/ReverseLinkedListUsingStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/StackUsingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/StackUsingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/StackUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/StackUsingLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ds/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/sort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/AverageLevelsBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/AverageLevelsBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/BackspaceStringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/BackspaceStringCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/BestTimeToBuyStocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/BestTimeToBuyStocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/BinaryTreePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/BinaryTreePaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/Convert1DArrayTo2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/Convert1DArrayTo2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/CountingBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/CountingBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/DiameterBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/DiameterBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/DisappearedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/DisappearedNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/FindAllDuplicatesInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/FindAllDuplicatesInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/FindTheDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/FindTheDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/IndexPairsOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/IndexPairsOfString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/InvertBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/InvertBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/LinkedListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MajorityElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MajorityElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MaximumAverageSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MaximumAverageSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MaximumDepthBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MaximumDepthBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MeetingRooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MeetingRooms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MergeTwoBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MergeTwoBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MergeTwoSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MergeTwoSortedLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MiddleOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MiddleOfLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MinimumDepthBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MinimumDepthBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MoveZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/NextGreateastLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/NextGreateastLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/PalindromeLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/RangeSumQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/RangeSumQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/RemoveDupSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/RemoveDupSortedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/RemoveFromLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/RemoveFromLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/SameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/SameTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/SquaresOfSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/SquaresOfSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/SubTreeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/SubTreeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/TreePathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/TreePathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/common/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/common/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/problems/isSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/isSubsequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +119,13 @@
     "Application.BubbleSort.executor": "Run",
     "Application.ContainsDuplicate.executor": "Run",
     "Application.Convert1DArrayTo2D.executor": "Run",
+    "Application.CountTimesSortedRotatedArray.executor": "Run",
     "Application.CountingBits.executor": "Run",
     "Application.DiameterBinaryTree.executor": "Run",
     "Application.DisappearedNumbers.executor": "Run",
     "Application.DoublyLinkedList.executor": "Run",
     "Application.FindAllDuplicatesInArray.executor": "Run",
+    "Application.FindOccurenceBinarySearch.executor": "Run",
     "Application.FindTheDuplicate.executor": "Run",
     "Application.IndexPairsOfString.executor": "Run",
     "Application.InfixPrefixPostFixEvaluation.executor": "Run",
@@ -61,6 +134,7 @@
     "Application.LinkedListCycle.executor": "Run",
     "Application.LinkedListImpl (1).executor": "Run",
     "Application.LinkedListImpl.executor": "Run",
+    "Application.LongestConsecutiveSequence.executor": "Debug",
     "Application.MajorityElements.executor": "Run",
     "Application.MaximumAverageSubArray.executor": "Run",
     "Application.MaximumDepthBinaryTree.executor": "Run",
@@ -72,6 +146,7 @@
     "Application.MissingNumber.executor": "Run",
     "Application.MoveZeros.executor": "Run",
     "Application.NextGreateastLetter.executor": "Run",
+    "Application.Print2DArraySpiralOrder.executor": "Run",
     "Application.ProductOfArrayExceptSelf.executor": "Run",
     "Application.QueueUsingLinkedList.executor": "Run",
     "Application.RangeSumQuery.executor": "Run",
@@ -81,11 +156,13 @@
     "Application.ReverseLinkedListUsingStack.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.SameTree.executor": "Run",
+    "Application.SearchElementInCircularSortedArray.executor": "Run",
     "Application.SelectionSort.executor": "Run",
     "Application.SingleNumber.executor": "Run",
     "Application.SquaresOfSortedArray.executor": "Run",
     "Application.StackUsingArray.executor": "Run",
     "Application.StackUsingLinkedList.executor": "Run",
+    "Application.SubsetsPowerSet.executor": "Run",
     "Application.TreePathSum.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.isSubsequence.executor": "Run",
@@ -96,16 +173,25 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Data-Structures-Algorithm",
-    "onboarding.tips.debug.path": "C:/Users/Shraddha Makwana/IdeaProjects/Data-Structures-Algorithms/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Shraddha Makwana/IdeaProjects/Data-Structures-Algorithms/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MergeSort">
-    <configuration name="FindAllDuplicatesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.FindAllDuplicatesInArray" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Data-Structures-Algorithm\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="src.ds" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Print2DArraySpiralOrder">
+    <configuration name="CountTimesSortedRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.CountTimesSortedRotatedArray" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.problems.*" />
+          <option name="PATTERN" value="src.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTheDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.FindTheDuplicate" />
+    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.LongestConsecutiveSequence" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.problems.*" />
+          <option name="PATTERN" value="src.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ds.sort.InsertionSort" />
+    <configuration name="Print2DArraySpiralOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.Print2DArraySpiralOrder" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ds.sort.*" />
+          <option name="PATTERN" value="src.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ds.sort.MergeSort" />
+    <configuration name="SearchElementInCircularSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.SearchElementInCircularSortedArray" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ds.sort.*" />
+          <option name="PATTERN" value="src.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOfArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.problems.ProductOfArrayExceptSelf" />
+    <configuration name="SubsetsPowerSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.SubsetsPowerSet" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.problems.*" />
+          <option name="PATTERN" value="src.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.FindAllDuplicatesInArray" />
-        <item itemvalue="Application.FindTheDuplicate" />
-        <item itemvalue="Application.ProductOfArrayExceptSelf" />
-        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.Print2DArraySpiralOrder" />
+        <item itemvalue="Application.SearchElementInCircularSortedArray" />
+        <item itemvalue="Application.CountTimesSortedRotatedArray" />
+        <item itemvalue="Application.SubsetsPowerSet" />
+        <item itemvalue="Application.LongestConsecutiveSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -201,49 +287,60 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/ds/LinkedList.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/src/ds/LinkedList.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/ds/DoublyLinkedList.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/src/ds/DoublyLinkedList.java</url>
           <line>30</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/problems/DisappearedNumbers.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/src/problems/DisappearedNumbers.java</url>
           <line>18</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/ds/ReverseLinkedListUsingStack.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/src/ds/ReverseLinkedListUsingStack.java</url>
           <line>16</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/ds/BinarySearchTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/src/ds/BinarySearchTree.java</url>
           <line>300</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/ds/BinarySearchTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/src/ds/BinarySearchTree.java</url>
           <line>29</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/ds/BinarySearchTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/src/ds/BinarySearchTree.java</url>
           <line>28</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/problems/AverageLevelsBinaryTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/src/problems/AverageLevelsBinaryTree.java</url>
           <line>89</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/problems/isSubsequence.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/src/problems/isSubsequence.java</url>
           <line>34</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/src/ds/binarysearch/FindOccurenceBinarySearch.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/src/ds/LinkedList.java</url>
+          <line>228</line>
+          <properties field="data" class="src.ds.DataNode" />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
