@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/Permutation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/ds/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/CombinationSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/CombinationSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/CombinationsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/TargetSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +52,10 @@
     "Application.BinarySearchTree.executor": "Run",
     "Application.BinaryTreePaths.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.CombinationSum2.executor": "Run",
+    "Application.CombinationSum3.executor": "Run",
+    "Application.Combinations.executor": "Run",
+    "Application.CombinationsSum.executor": "Run",
     "Application.ContainsDuplicate.executor": "Run",
     "Application.Convert1DArrayTo2D.executor": "Run",
     "Application.CountTimesSortedRotatedArray.executor": "Run",
@@ -57,6 +66,7 @@
     "Application.FindAllDuplicatesInArray.executor": "Run",
     "Application.FindOccurenceBinarySearch.executor": "Run",
     "Application.FindTheDuplicate.executor": "Run",
+    "Application.GenerateParentheses.executor": "Run",
     "Application.IndexPairsOfString.executor": "Run",
     "Application.InfixPrefixPostFixEvaluation.executor": "Run",
     "Application.InsertionSort.executor": "Run",
@@ -81,6 +91,7 @@
     "Application.Print2DArraySpiralOrder.executor": "Run",
     "Application.ProductOfArrayExceptSelf.executor": "Run",
     "Application.QueueUsingLinkedList.executor": "Run",
+    "Application.QuickSort.executor": "Run",
     "Application.RangeSumQuery.executor": "Run",
     "Application.RemoveDupSortedList.executor": "Run",
     "Application.RemoveFromLinkedList.executor": "Run",
@@ -117,9 +128,9 @@
       <recent name="src.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Permutation2">
-    <configuration name="CountTimesSortedRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.CountTimesSortedRotatedArray" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="CombinationSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.CombinationSum2" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.Permutation2" />
+    <configuration name="CombinationSum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.CombinationSum3" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -144,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.Permutations" />
+    <configuration name="CombinationsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.CombinationsSum" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -157,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print2DArraySpiralOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.Print2DArraySpiralOrder" />
+    <configuration name="GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.GenerateParentheses" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -170,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchElementInCircularSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.SearchElementInCircularSortedArray" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.ds.sort.QuickSort" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problems.*" />
+          <option name="PATTERN" value="src.ds.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Permutation2" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.Print2DArraySpiralOrder" />
-        <item itemvalue="Application.SearchElementInCircularSortedArray" />
-        <item itemvalue="Application.CountTimesSortedRotatedArray" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.GenerateParentheses" />
+        <item itemvalue="Application.CombinationSum3" />
+        <item itemvalue="Application.CombinationSum2" />
+        <item itemvalue="Application.CombinationsSum" />
       </list>
     </recent_temporary>
   </component>
