@@ -8,11 +8,17 @@ public class TargetSum {
     static int totalSum;
 
     public static void main(String[] args) {
-        int[] nums = {1,1,1,1,1};
-        System.out.println(findTargetSumWaysBruteForce(nums, 3));
+        int[] nums = {2,1,1,2};
+        System.out.println(findTargetSumWaysDP(nums, 0));
     }
 
-    public int findTargetSumWaysDP(int[] nums, int target) {
+    // Time complexity: O(n⋅totalSum)
+    //The time complexity is determined by the nested loops in the function. The outer loop runs n times (once for each element in nums), and the inner loop runs 2⋅totalSum+1 times (once for each possible sum from −totalSum to totalSum).
+    //Therefore, the overall time complexity is O(n⋅totalSum).
+
+    //Space complexity: O(n⋅totalSum)
+    //The space complexity is determined by the size of the DP table dp, which is a 2D array of size n×(2⋅totalSum+1). Each entry in the DP table requires constant space, so the total space complexity is O(n⋅totalSum).
+    public static int findTargetSumWaysDP(int[] nums, int target) {
         int totalSum = Arrays.stream(nums).sum();
         int[][] dp = new int[nums.length][2 * totalSum + 1];
 

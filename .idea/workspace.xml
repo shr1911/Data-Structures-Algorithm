@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/ds/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/CombinationSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/CombinationSum3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/CombinationsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/GenerateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/GeneralizedAbbreviation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/LetterCombinationPhoneNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/PalindromePartitioning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/problems/TargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/TargetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/WordSearchMatrixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/WordSearchMatrixTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,9 @@
     "Application.FindAllDuplicatesInArray.executor": "Run",
     "Application.FindOccurenceBinarySearch.executor": "Run",
     "Application.FindTheDuplicate.executor": "Run",
+    "Application.GeneralizedAbbreviation.executor": "Run",
     "Application.GenerateParentheses.executor": "Run",
+    "Application.HouseRobber.executor": "Run",
     "Application.IndexPairsOfString.executor": "Run",
     "Application.InfixPrefixPostFixEvaluation.executor": "Run",
     "Application.InsertionSort.executor": "Run",
@@ -106,9 +108,12 @@
     "Application.StackUsingArray.executor": "Run",
     "Application.StackUsingLinkedList.executor": "Run",
     "Application.SubsetsPowerSet.executor": "Run",
+    "Application.TargetSum.executor": "Run",
     "Application.TreePathSum.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.isSubsequence.executor": "Run",
+    "JUnit.WordSearchMatrixTest.executor": "Run",
+    "JUnit.WordSearchMatrixTest.testWordExists.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -128,9 +133,9 @@
       <recent name="src.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration name="CombinationSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.CombinationSum2" />
+  <component name="RunManager" selected="Application.HouseRobber">
+    <configuration name="GeneralizedAbbreviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.GeneralizedAbbreviation" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationSum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.CombinationSum3" />
+    <configuration name="HouseRobber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.HouseRobber" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +160,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.CombinationsSum" />
+    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.TargetSum" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -168,39 +173,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.GenerateParentheses" />
+    <configuration name="WordSearchMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problems.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.WordSearchMatrixTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ds.sort.QuickSort" />
+    <configuration name="WordSearchMatrixTest.testWordExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.ds.sort.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.WordSearchMatrixTest" />
+      <option name="METHOD_NAME" value="testWordExists" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.GenerateParentheses" />
-        <item itemvalue="Application.CombinationSum3" />
-        <item itemvalue="Application.CombinationSum2" />
-        <item itemvalue="Application.CombinationsSum" />
+        <item itemvalue="Application.HouseRobber" />
+        <item itemvalue="JUnit.WordSearchMatrixTest" />
+        <item itemvalue="JUnit.WordSearchMatrixTest.testWordExists" />
+        <item itemvalue="Application.GeneralizedAbbreviation" />
+        <item itemvalue="Application.TargetSum" />
       </list>
     </recent_temporary>
   </component>

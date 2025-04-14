@@ -1,18 +1,27 @@
 package test;
 
+
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.junit.MockitoJUnitRunner;
 import src.problems.WordSearchMatrix;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertTrue;
 
+
+// https://medium.com/@keployio/junit-mocking-a-complete-guide-43965665c29f
+@RunWith(MockitoJUnitRunner.class)
 public class WordSearchMatrixTest {
 
-    private WordSearchMatrix wordSearchMatrix;
+
+    @InjectMocks
+    WordSearchMatrix wordSearchMatrix;
 
     @Before
     public void setup(){
-        wordSearchMatrix = new WordSearchMatrix();
     }
 
 
@@ -23,8 +32,8 @@ public class WordSearchMatrixTest {
 
         boolean isWordPResent = wordSearchMatrix.exist(input, word);
 
+        System.out.println(isWordPResent);
         // assertEquals(true, isWordPResent); // expected, actual
         assertTrue(isWordPResent);
-
     }
 }
