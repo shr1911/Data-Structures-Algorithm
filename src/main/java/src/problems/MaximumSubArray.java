@@ -12,19 +12,22 @@ public class MaximumSubArray {
     // Time complexity - O(n)
     // Space complexity - O(1)
     public static int maxSubArrayKadanesAlgo(int[] arr, int n) {
-        int ans = 0, sum = 0;
+        // Initialize our variables using the first element.
+        int currentSubarraySum = arr[0];
+        int maxSubarraySum = arr[0];
 
-        for (int i = 0; i < n; i++) {
-            if (sum + arr[i] > 0) {
-                sum += arr[i];
-            } else {
-                sum = 0;
-            }
+        // Start with the 2nd element since we already used the first one.
+        for (int i = 1; i < arr.length; i++) {
+            int num = arr[i];
+            // If current_subarray is negative, throw it away. Otherwise, keep adding to it.
+            currentSubarraySum = Math.max(num, currentSubarraySum + num);
+            maxSubarraySum = Math.max(maxSubarraySum, currentSubarraySum);
         }
-        return ans;
+
+        return maxSubarraySum;
     }
 
-        //Time complexity - n(nlogn)
+    //Time complexity - n(nlogn)
     //space complexity - O(log n)
     public static int maxSubArrayDivideConquer(int[] arr, int n) {
         if (n == 1) {

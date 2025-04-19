@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/ds/sort/TopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/ds/sort/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/CombinationSumFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/HouseRobber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/MaximumProductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/recusion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/recusion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/recusion/ModularExponentiation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/recusion/PowXN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/problems/MaximumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MaximumSubArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +58,7 @@
     "Application.BinarySearchTree.executor": "Run",
     "Application.BinaryTreePaths.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.CoinChange.executor": "Run",
     "Application.CombinationSum2.executor": "Run",
     "Application.CombinationSum3.executor": "Run",
     "Application.Combinations.executor": "Run",
@@ -57,12 +70,15 @@
     "Application.DiameterBinaryTree.executor": "Run",
     "Application.DisappearedNumbers.executor": "Run",
     "Application.DoublyLinkedList.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
     "Application.FindAllDuplicatesInArray.executor": "Run",
     "Application.FindOccurenceBinarySearch.executor": "Run",
     "Application.FindTheDuplicate.executor": "Run",
     "Application.GeneralizedAbbreviation.executor": "Run",
     "Application.GenerateParentheses.executor": "Run",
     "Application.HouseRobber.executor": "Run",
+    "Application.HouseRobber2.executor": "Run",
     "Application.IndexPairsOfString.executor": "Run",
     "Application.InfixPrefixPostFixEvaluation.executor": "Run",
     "Application.InsertionSort.executor": "Run",
@@ -71,6 +87,8 @@
     "Application.LinkedListImpl (1).executor": "Run",
     "Application.LinkedListImpl.executor": "Run",
     "Application.LongestConsecutiveSequence.executor": "Debug",
+    "Application.LongestIncreasingSubsequence.executor": "Run",
+    "Application.LongestPalindromicSubstring.executor": "Run",
     "Application.MajorityElements.executor": "Run",
     "Application.MaximumAverageSubArray.executor": "Run",
     "Application.MaximumDepthBinaryTree.executor": "Run",
@@ -80,10 +98,12 @@
     "Application.MiddleOfLinkedList.executor": "Run",
     "Application.MinimumDepthBinaryTree.executor": "Run",
     "Application.MissingNumber.executor": "Run",
+    "Application.ModularExponentiation.executor": "Run",
     "Application.MoveZeros.executor": "Run",
     "Application.NextGreateastLetter.executor": "Run",
     "Application.Permutation2.executor": "Run",
     "Application.Permutations.executor": "Run",
+    "Application.PowXN.executor": "Run",
     "Application.Print2DArraySpiralOrder.executor": "Run",
     "Application.ProductOfArrayExceptSelf.executor": "Run",
     "Application.QueueUsingLinkedList.executor": "Run",
@@ -128,9 +148,22 @@
       <recent name="src.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TopologicalSort">
-    <configuration name="GeneralizedAbbreviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.GeneralizedAbbreviation" />
+  <component name="RunManager" selected="Application.LongestPalindromicSubstring">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.recusion.Fibonacci" />
+      <module name="Data-Structures-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.problems.recusion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.LongestIncreasingSubsequence" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +175,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HouseRobber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.HouseRobber" />
+    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.LongestPalindromicSubstring" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -155,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopologicalSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ds.sort.TopologicalSort" />
+    <configuration name="ModularExponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.recusion.ModularExponentiation" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.ds.sort.*" />
+          <option name="PATTERN" value="src.problems.recusion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,44 +201,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordSearchMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PowXN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.recusion.PowXN" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="src.problems.recusion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.WordSearchMatrixTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordSearchMatrixTest.testWordExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.WordSearchMatrixTest" />
-      <option name="METHOD_NAME" value="testWordExists" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TopologicalSort" />
-        <item itemvalue="Application.HouseRobber" />
-        <item itemvalue="JUnit.WordSearchMatrixTest" />
-        <item itemvalue="JUnit.WordSearchMatrixTest.testWordExists" />
-        <item itemvalue="Application.GeneralizedAbbreviation" />
+        <item itemvalue="Application.LongestPalindromicSubstring" />
+        <item itemvalue="Application.LongestIncreasingSubsequence" />
+        <item itemvalue="Application.ModularExponentiation" />
+        <item itemvalue="Application.PowXN" />
+        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -289,11 +304,30 @@
           <line>27</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/src/ds/sort/BucketSort.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/src/problems/MaximumProductSubarray.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/main/java/src/ds/LinkedList.java</url>
           <line>228</line>
           <properties field="data" class="src.ds.DataNode" />
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/src/problems/recusion/PowXN.java</url>
+          <line>9</line>
+          <properties class="src.problems.recusion.PowXN" method="powRecursionBetter">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
