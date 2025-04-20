@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/ds/sort/BucketSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/CombinationSumFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/HouseRobber2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/MaximumProductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/WordBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/recusion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/recusion/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/recusion/ModularExponentiation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/recusion/PowXN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/PlaindromicSubStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/UniquePaths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/src/problems/MaximumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/MaximumSubArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +58,7 @@
     "Application.Convert1DArrayTo2D.executor": "Run",
     "Application.CountTimesSortedRotatedArray.executor": "Run",
     "Application.CountingBits.executor": "Run",
+    "Application.DecodeWays.executor": "Run",
     "Application.DiameterBinaryTree.executor": "Run",
     "Application.DisappearedNumbers.executor": "Run",
     "Application.DoublyLinkedList.executor": "Run",
@@ -126,6 +118,7 @@
     "Application.TopologicalSort.executor": "Run",
     "Application.TreePathSum.executor": "Run",
     "Application.TwoSum.executor": "Run",
+    "Application.UniquePaths.executor": "Run",
     "Application.isSubsequence.executor": "Run",
     "JUnit.WordSearchMatrixTest.executor": "Run",
     "JUnit.WordSearchMatrixTest.testWordExists.executor": "Run",
@@ -148,13 +141,13 @@
       <recent name="src.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestPalindromicSubstring">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.recusion.Fibonacci" />
+  <component name="RunManager" selected="Application.UniquePaths">
+    <configuration name="DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.DecodeWays" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problems.recusion.*" />
+          <option name="PATTERN" value="src.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowXN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.recusion.PowXN" />
+    <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.UniquePaths" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problems.recusion.*" />
+          <option name="PATTERN" value="src.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniquePaths" />
+        <item itemvalue="Application.DecodeWays" />
         <item itemvalue="Application.LongestPalindromicSubstring" />
         <item itemvalue="Application.LongestIncreasingSubsequence" />
         <item itemvalue="Application.ModularExponentiation" />
-        <item itemvalue="Application.PowXN" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
