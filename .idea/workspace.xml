@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/DecodeWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/PlaindromicSubStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/NumberOfLongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/PartitionEqualSubsetSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
