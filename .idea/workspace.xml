@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/NumberOfLongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/PartitionEqualSubsetSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/ds/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/sort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/problems/PartitionEqualSubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/PartitionEqualSubsetSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +91,7 @@
     "Application.ModularExponentiation.executor": "Run",
     "Application.MoveZeros.executor": "Run",
     "Application.NextGreateastLetter.executor": "Run",
+    "Application.PartitionEqualSubsetSum.executor": "Run",
     "Application.Permutation2.executor": "Run",
     "Application.Permutations.executor": "Run",
     "Application.PowXN.executor": "Run",
@@ -139,7 +140,7 @@
       <recent name="src.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UniquePaths">
+  <component name="RunManager" selected="Application.PartitionEqualSubsetSum">
     <configuration name="DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.problems.DecodeWays" />
       <module name="Data-Structures-Algorithms" />
@@ -153,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.LongestIncreasingSubsequence" />
+    <configuration name="PartitionEqualSubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.PartitionEqualSubsetSum" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -166,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.LongestPalindromicSubstring" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.ds.sort.QuickSort" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problems.*" />
+          <option name="PATTERN" value="src.ds.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModularExponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.recusion.ModularExponentiation" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.ds.sort.SelectionSort" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problems.recusion.*" />
+          <option name="PATTERN" value="src.ds.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PartitionEqualSubsetSum" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.UniquePaths" />
         <item itemvalue="Application.DecodeWays" />
-        <item itemvalue="Application.LongestPalindromicSubstring" />
-        <item itemvalue="Application.LongestIncreasingSubsequence" />
-        <item itemvalue="Application.ModularExponentiation" />
       </list>
     </recent_temporary>
   </component>
@@ -304,6 +305,14 @@
           <url>file://$PROJECT_DIR$/src/main/java/src/problems/MaximumProductSubarray.java</url>
           <line>35</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/src/problems/MeetingRooms.java</url>
+          <line>12</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/main/java/src/ds/LinkedList.java</url>
