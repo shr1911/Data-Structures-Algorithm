@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f5258f-97eb-4c3b-aace-20ded53caa30" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/src/ds/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/ds/sort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/src/problems/PartitionEqualSubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/problems/PartitionEqualSubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/problems/NextGreaterNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +89,7 @@
     "Application.ModularExponentiation.executor": "Run",
     "Application.MoveZeros.executor": "Run",
     "Application.NextGreateastLetter.executor": "Run",
+    "Application.NextGreaterNumber.executor": "Run",
     "Application.PartitionEqualSubsetSum.executor": "Run",
     "Application.Permutation2.executor": "Run",
     "Application.Permutations.executor": "Run",
@@ -140,9 +139,9 @@
       <recent name="src.ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PartitionEqualSubsetSum">
-    <configuration name="DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problems.DecodeWays" />
+  <component name="RunManager" selected="Application.NextGreaterNumber">
+    <configuration name="NextGreaterNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problems.NextGreaterNumber" />
       <module name="Data-Structures-Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -208,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NextGreaterNumber" />
         <item itemvalue="Application.PartitionEqualSubsetSum" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.UniquePaths" />
-        <item itemvalue="Application.DecodeWays" />
       </list>
     </recent_temporary>
   </component>
